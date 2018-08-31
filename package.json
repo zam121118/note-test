@@ -1,0 +1,22 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "my first Hello World node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zam121118/note-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zam121118/note-test/issues"
+  },
+  "homepage": "https://github.com/zam121118/note-test#readme",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}
